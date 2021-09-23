@@ -7,4 +7,5 @@ This repositorey is for solution of coding challenges
 <li>A circle and two squares</li>
 <li>Fibonacci Series</li>
 <li>Find Discount</li>
+<li>Length of two segments</li>
 </ol>
