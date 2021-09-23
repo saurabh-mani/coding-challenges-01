@@ -14,7 +14,7 @@ line_length([0, 0], [1, 1]) => 1.41
 import math
 
 def line_length(dot1,dot2):
-    return math.sqrt(((dot2[0]-dot1[0])**2)+((dot2[1]-dot1[1])**2))
+    return math.sqrt(((dot2[0]-dot1[0])**2)+((dot2[1]-dot1[1])**2))#Distance Formula: Distance = sqrt((x2-x1)^2+(y2-y1)^2)
 
 x1 = float(input("Enter value for x1: "))
 y1 = float(input("Enter value for y1: "))
